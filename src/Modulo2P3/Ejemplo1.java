@@ -1,4 +1,4 @@
-package Moludo2P3;
+package Modulo2P3;
 
 import java.util.Scanner;
 
