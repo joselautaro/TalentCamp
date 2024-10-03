@@ -1,4 +1,4 @@
-package Modulo3.Objetos6;
+package Modulo3.Objeto6;
 
 public class Lampara {
 
